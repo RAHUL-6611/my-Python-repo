@@ -1,0 +1,4 @@
+import ifnameismain           
+
+
+ifnameismain.mainfunction()
